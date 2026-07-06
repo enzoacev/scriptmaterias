@@ -1,4 +1,4 @@
-# Perfiles de Chrome (contienen sesiones de usuario, cookies, etc.)
+﻿# Perfiles de Chrome (contienen sesiones de usuario, cookies, etc.)
 chrome_profile_*/
 
 # Archivo de configuración (contiene contraseñas en texto plano)
